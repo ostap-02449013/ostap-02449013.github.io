@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('../fonts/ClearSans-Light.eot');
+    src: local('../fonts/Clear Sans Light'), local('ClearSans-Light'),
+        url('../fonts/ClearSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ClearSans-Light.woff') format('woff'),
+        url('../fonts/ClearSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('../fonts/ClearSans.eot');
+    src: local('../fonts/Clear Sans'), local('ClearSans'),
+        url('../fonts/ClearSans.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ClearSans.woff') format('woff'),
+        url('../fonts/ClearSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('../fonts/ClearSans-Medium.eot');
+    src: local('../fonts/Clear Sans Medium'), local('ClearSans-Medium'),
+        url('../fonts/ClearSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ClearSans-Medium.woff') format('woff'),
+        url('../fonts/ClearSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('../fonts/ClearSans-Bold.eot');
+    src: local('../fonts/Clear Sans Bold'), local('ClearSans-Bold'),
+        url('../fonts/ClearSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ClearSans-Bold.woff') format('woff'),
+        url('../fonts/ClearSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'Segoe UI';
+	src: url('../fonts/SegoeUI-Light.eot');
+	src: local('../fonts/Segoe UI Light'), local('SegoeUI-Light'),
+		url('../fonts/SegoeUI-Light.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/SegoeUI-Light.woff') format('woff'),
+		url('../fonts/SegoeUI-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Segoe UI';
+	src: url('../fonts/SegoeUI-SemiBold.eot');
+	src: local('../fonts/Segoe UI Semibold'), local('SegoeUI-SemiBold'),
+		url('../fonts/SegoeUI-SemiBold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/SegoeUI-SemiBold.woff') format('woff'),
+		url('../fonts/SegoeUI-SemiBold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Segoe UI';
+	src: url('../fonts/SegoeUI.eot');
+	src: local('../fonts/Segoe UI'), local('SegoeUI'),
+		url('../fonts/SegoeUI.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/SegoeUI.woff') format('woff'),
+		url('../fonts/SegoeUI.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Segoe UI';
+	src: url('../fonts/SegoeUI-Bold.eot');
+	src: local('../fonts/Segoe UI Bold'), local('SegoeUI-Bold'),
+		url('../fonts/SegoeUI-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/SegoeUI-Bold.woff') format('woff'),
+		url('../fonts/SegoeUI-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Segoe UI';
+	src: local('../fonts/Segoe UI Black'), local('SegoeUIBlack'),
+		url('../fonts/SegoeUIBlack.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}

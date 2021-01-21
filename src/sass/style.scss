@@ -1,0 +1,19 @@
+@import 'base/variables';
+* {
+    font-family: 'Segoe UI', sans-serif;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+.container {
+    max-width: 1426px;
+    margin: 0 auto;
+}
+@import 'blocks/advantages';
+@import 'blocks/header';
+@import 'blocks/promo';
+@import 'blocks/footer';
+@import 'blocks/product';
+@import 'blocks/customers';
+@import 'media';

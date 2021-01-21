@@ -1,0 +1,79 @@
+.customers {
+    color: white;
+    .customers__title {
+        font-size: 37px;
+        font-weight: bold;
+        line-height: 1.66;
+        letter-spacing: 3.7px;
+        text-align: center;
+        color: #ffffff;
+        margin-top: -13px;
+        margin-left: 2px;
+        margin-bottom: 35px;
+    }
+    &__carousel {
+        padding-top: 4px;
+        padding-left: 3px;
+        margin-bottom: 29px;
+        div {
+            img {
+                display: block;
+            }
+        }
+    }
+    &__remak {
+        padding: 27px 0 0 114px;
+    }
+    &__reflex {
+        padding: 0 0 0 117px;
+    }
+    &__kg {
+        .customers__kg-hover {
+            display: none;
+        }
+        padding: 0 0 0 52px;
+        
+        &:hover {
+            img {
+                display: none;
+            }
+            .customers__kg-hover {
+                display: block;
+            }
+        }
+    }
+    &__kermi {
+        width: 415px!important;
+        padding: 0 0 0 91px;
+    }
+    .divider {
+        margin-top: -24px;
+        width: 1296px;
+    }
+}
+.slick-prev {
+    position: absolute;
+    top: -158px;
+    left: -68px;
+    width: 150px;
+    height: 500px;
+    padding-top: 200px;
+    border: none;
+    background: none;
+    background-image: url(../icons/customers/customers-arrows.png);
+    background-repeat: no-repeat;
+    background-position: 68px 198px;
+}
+.slick-next {
+    position: absolute;
+    top: -158px;
+    left: 1345px;
+    width: 150px;
+    height: 500px;
+    padding-top: 200px;
+    border: none;
+    background: none;
+    background-image: url(../icons/customers/customers-arrows.png);
+    background-repeat: no-repeat;
+    background-position: -1345px 198px;
+}
