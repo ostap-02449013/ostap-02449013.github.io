@@ -16,7 +16,7 @@ $(document).ready(function(){
         slidesToScroll: 4,
         dots: false,
         speed: 300,
-        autoplay: false,
+        autoplay: true,
         autoplaySpeed: 1000,
         speed: 3000,
         prevArrow: '<button type="button" class="slick-prev"></button>',
